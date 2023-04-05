@@ -1,0 +1,37 @@
+body{
+    background-color: #2e2d2d;
+}
+main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+  button{
+    width: 300px;
+    height: 40px;
+    font: bold 1.2rem serif;
+    background: #1d1d1d;
+    color: #fff;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    background-color:#736f6f ;
+    width: 400px;
+    height: 600px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+  }
+  h1{
+    color: #fff;
+  }

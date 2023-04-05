@@ -1,0 +1,38 @@
+body{
+    background-color: #313030;
+}
+main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+  button{
+    width: 300px;
+    height: 40px;
+    font: bold 1.2rem serif;
+    background: #424141;
+    color: #fff;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* margin-bottom: 20rem; */
+    margin-top: 2rem;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    background-color:#736f6f ;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+
+
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+  }
+ 
